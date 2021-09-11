@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "auto-complete-api", "auto-complete-api\auto-complete-api.csproj", "{8F47B2CF-20EA-400B-938C-2EAB6EBCCCE1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F47B2CF-20EA-400B-938C-2EAB6EBCCCE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F47B2CF-20EA-400B-938C-2EAB6EBCCCE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F47B2CF-20EA-400B-938C-2EAB6EBCCCE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F47B2CF-20EA-400B-938C-2EAB6EBCCCE1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00436D7D-C4E6-4DC5-A7D4-5564E708E38D}
+	EndGlobalSection
+EndGlobal
